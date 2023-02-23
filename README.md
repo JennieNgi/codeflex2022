@@ -8,7 +8,7 @@ To participate in CodeFlex, participants need to have a basic understanding of P
 Before the event, we provide a list of challenges for bug fix, small programs and mysql questions to participants.
 
 ## The Event
-CodeFlex 2022 was a one-day event where teams of 2-4 students will work together to solve as many challenges as possible in a limited amount of time. 
+CodeFlex 2022 was a one-day event where teams of 2 students working together to solve as many challenges as possible in a limited amount of time. 
 Each challenge will be worth a certain number of points, and the team with the most points at the end of the event was declared the winner.
 Teams were given access to a shared MySQL database and a set of pre-defined tables. 
 
